@@ -4,5 +4,9 @@
 
 又来到了dev分支。hello dev
 
+hello dev 
+i have not done this work,but i have to repaire that bug,i need help~
+maybe i can usr git stash
+
 now :repaire that bug.
 complitite!!!
