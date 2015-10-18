@@ -10,3 +10,5 @@ maybe i can usr git stash
 
 now :repaire that bug.
 complitite!!!
+
+我在远程做了一点修改
